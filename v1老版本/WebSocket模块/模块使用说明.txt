@@ -1,0 +1,7 @@
+1、把HPSocket4C.dll文件放在：C:\Program Files (x86)，目录下。然后就可以使用了。
+
+2、如果要修改HPSocket4C.dll文件位置，修改HP_Socket这个源码就行了。
+
+
+
+  		如有问题，可以加微信：419649693。
